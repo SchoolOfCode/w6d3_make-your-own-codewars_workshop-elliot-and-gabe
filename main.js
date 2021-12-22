@@ -2,7 +2,7 @@
 INTRO:
 
 You are given a string cipher (an encoded message). This string will have a random assortment of characters
-but using a key (the array that is past through), you will dycript the cipher and reveal the message! 
+but using a key (the array that is past through), you will decript the cipher and reveal the message! 
 The message should be returned from the function as a string. 
 
 
