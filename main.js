@@ -8,8 +8,8 @@ The message should be returned from the function as a string.
 
 
 Example:
-string = "HdMdLeludblfgOo"
-key = [ 5, 0, 6, 10, 14 ]
+cipher = "HdMdLeludblfgOo"
+scrambledKey = [ 5, 0, 6, 10, 14 ]
 message = "Hello"
 
 Hint: The key needs to be in ascending order to work as the key tells the location of each character in the message.
