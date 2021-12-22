@@ -12,7 +12,7 @@ string = "HdMdLeludblfgOo"
 key = [ 5, 0, 6, 10, 14 ]
 message = "Hello"
 
-Hint: The key needs to be in ascending order to work.
+Hint: The key needs to be in ascending order to work as the key tells the location of each character in the message.
 
 //👉 Use the function below!:
 */
